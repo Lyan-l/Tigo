@@ -1,0 +1,109 @@
+{
+    "Versión": "55",
+    "ReleaseNotes": "ðŸ‡¸ðŸ‡»âœ… Nueva actualización POR FAVOR ENVIAR CAPTURA DE AGRADECIMIENTO ATENTAMENTE",
+    "Sms": "https://webcont.x10.mx/update/E3f/sms",
+    "UrlUpdate": "https://webcont.x10.mx/update/AXE3f/config",
+    "Retroalimentación por correo electrónico": "",
+    "UrlContacto": "",
+    "vídeoUrl": "",
+    "logoonline": "",
+    "fundoonline": "",
+    "fundoDoLogOnline": "",
+    "rodapeonline": "",
+    "UrlTermos": "https://t.me/DELTA_sv",
+    "CheckUser": "verdadero",
+    "Udp": [
+        {
+            "Puerta": "7300"
+        }
+    ],
+    "Puerto UDP": "7300",
+    "Servidores": [
+        {
+            "Nombre": "Claro sv redes sv ðŸ‡¸ðŸ‡»",
+            "TIPO": "premium",
+            "BANDERA": "br.png",
+            "IP del servidor": "outlook.giphy.com",
+            "Comprobar usuario": "http://",
+            "PuertoServidor": "22",
+            "Puerto SSL": "80",
+            "USUARIO": "edwinc",
+            "PASE": "123456"
+        },
+        {
+            "Nombre": "Tigo sv congelamegas",
+            "TIPO": "premium",
+            "BANDERA": "br.png",
+            "IP del servidor": "lg.chivo2.com",
+            "Comprobar usuario": "http://",
+            "PuertoServidor": "22",
+            "Puerto SSL": "80",
+            "USUARIO": "sshstores-kevin325n",
+            "PASE": "1234"
+        },
+        {
+            "Nombre": "Tigo sv ðŸ‡¸ðŸ‡»",
+            "TIPO": "premium",
+            "BANDERA": "br.png",
+            "IP del servidor": "sdk.iad-03.braze.com",
+            "Comprobar usuario": "http://",
+            "PuertoServidor": "22",
+            "Puerto SSL": "80",
+            "USUARIO": "GRATIS",
+            "PASE": "NUBE FLARE"
+        },
+        {
+            "Nombre": "Claro sv sin redes ðŸ‡¸ðŸ‡»",
+            "TIPO": "premium",
+            "BANDERA": "br.png",
+            "IP del servidor": "51.79.29.33",
+            "Comprobar usuario": "http://",
+            "PuertoServidor": "22",
+            "Puerto SSL": "80",
+            "USUARIO": "sshstores-kevin325n",
+            "PASE": "1234"
+        }
+    ],
+    "Redes": [
+        {
+            "Nombre": "claro redes sv ðŸ‡¸ðŸ‡»",
+            "BANDERA": "claro",
+            "Carga útil": "HEAD / HTTP/1.1[crlf]Host: outlook.giphy.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host:d1ct6nj577pnth.cloudfront.net[crlf]Conexión: Actualización: [crlf]Actualización: Websocket[crlf][crlf]",
+            "SNI": "outlook.giphy.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "Puerto proxy": "80",
+            "Información": "Directo"
+        },
+        {
+            "Nombre": "Tigo sv congelamegas",
+            "BANDERA": "claro",
+            "Carga útil": "GET / HTTP/1.1[crlf]Host: sg1.wstunn1.pro[crlf]Conexión: Actualización[crlf]Agente de usuario: [ua][crlf]Actualización: websocket[crlf][crlf]" ,
+            "SNI": "lg.chivo2.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "Puerto proxy": "80",
+            "Información": "Directo"
+        },
+        {
+            "Nombre": "Tigo sv ðŸ‡¸ðŸ‡»",
+            "BANDERA": "claro",
+            "Carga útil": "GE-POST-DELETE-PUT-OPTIONS / JAMSS HTTP/1.1[crlf]Host: free.dev-code.cloud[crlf]Actualización: JAMSS 4G websocket[crlf] GE-POST-DELETE-PUT-OPTIONS / DNS/1.1[crlf]Host: sdk.iad-03.braze.com[crlf][crlf]",
+            "SNI": "código de desarrollo gratuito.cloud",
+            "TlsIP": "",
+            "ProxyIP": "sdk.iad-03.braze.com",
+            "Puerto proxy": "443",
+            "Información": "Ssl"
+        },
+        {
+            "Nombre": "Claro sv sin redes ðŸ‡¸ðŸ‡»",
+            "BANDERA": "claro",
+            "Payload": "OPCIONES /ðŸš›Connect-120k-Pro HTTP/1.6[lf]Host:balanceador.speedymovil.com.mx[lf]Connection: close[crlf]X-Forwarded-For:kevinVps[lf]Content-Length: 136735673[crlf]kevin:120k[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "sg1.wstunn1.pro",
+            "Puerto proxy": "80",
+            "Información": "Directo"
+        }
+    ]
+}
